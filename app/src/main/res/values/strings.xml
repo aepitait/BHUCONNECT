@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BHU CONNECT</string>
+    <string name="yourName">Enter Your Enrollment Number</string>
+    <string name="studentOrEmployee">What are you?</string>
+    <string name="title_activity_tabbed_complain">TabbedComplainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_complain">Who are you?</string>
+    <!--roll number or emailstring for complainActivity-->
+    <string name="roll_number">Enter roll number or email</string>
+    <!--enrollment number string for complain-->
+    <string name="enrollment_number">Enter enrollment number </string>
+    <!--emailId for Employee-->
+    <string name="emailId">Enter email</string>
+    <!--employeeId for employee in complainActivity-->
+    <string name="empId">Enter employee id</string>
+
+    <!--string for complaint type-->
+    <string name="complaint_type">Complaint Type</string>
+    <!--This is an String array for providing different options for complaint type in Write complaint-->
+    <string-array name="complaint_type_array">
+        <item>Internet Connectivity</item>
+        <item>Proxy Complaint</item>
+    </string-array>
+</resources>
